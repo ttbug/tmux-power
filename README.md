@@ -21,7 +21,7 @@ run-shell "/path/to/tmux-power.tmux"
 **Install using [TPM](https://github.com/tmux-plugins/tpm)**
 
 ```tmux
-set -g @plugin 'wfxr/tmux-power'
+set -g @plugin 'ttbug/tmux-power'
 ```
 
 ### 🎨 Themes
